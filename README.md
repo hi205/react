@@ -24,7 +24,11 @@ npm install webpack -g
 
 ###如果出先端口占用的问题可以在script的start.js里的43行将3000改成对应的端口号
 ##项目用的的框架
+
 1.react ^15.6.1
+
 2.react-redux ^5.0.5
+
 3.react-router: ^4.1.1
+
 4.promise 7.1.1
